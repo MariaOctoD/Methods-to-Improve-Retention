@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Methods to Improve Retention" />
+              <option name="title_text" value="Key Takeaways" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1543,9 +1543,10 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5zOHsNjcsp2" displaytext="Intro tablette" expand="true" type="slide">
+        <slidelink slideid="_player.6pTQA5LT9aX" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5zOHsNjcsp2.6YgQzxksjPl" displaytext="PROCESS INTERACTION" expand="false" type="slide" />
+            <slidelink slideid="_player.6pTQA5LT9aX.5b6yJbTzZRx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6pTQA5LT9aX.5VwTVD29TSe" displaytext="Q&amp;amp;A" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
